@@ -27,3 +27,9 @@ int main(){
     PriorityQueue(q);
 
 }
+
+// output:
+// 10 8 7 -3 
+// 4
+// 0
+// 7 -3
